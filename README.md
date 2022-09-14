@@ -32,6 +32,9 @@
     <a href="https://wa.me/qr/HGRNRUPGAG44G1(https://wa.me/qr/HGRNRUPGAG44G1)" target="_blank">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     
+     ![Snake animation](https://github.com/LehSantiago/LehSantiago/blob/output/github-contribution-grid-snake.svg)
+ 
+    
   </div>
   
   
