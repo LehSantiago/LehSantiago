@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/LehSantiago">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LehSantiago&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehSantiago&layout=compact&langs_count=7&theme=aura"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LehSantiago&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehSantiago&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
