@@ -34,6 +34,8 @@
 
     
       </div>
+  
+  
      ![Snake animation](https://github.com/LehSantiago/LehSantiago/blob/output/github-contribution-grid-snake.svg)
  
     
