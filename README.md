@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/LehSantiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LehSantiago&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehSantiago&layout=compact&langs_count=7&theme=aura"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LehSantiago&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehSantiago&layout=compact&langs_count=7&theme=aura"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +31,7 @@
   <a href = "mailto:leticiasantiago2507@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticia-santiago-3802b4164" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-     <a href="https://wa.me/551196525-9138"	target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
+     <a href="https://wa.me/5511965259138"	target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
      <a href="https://discord.gg/Lehh💕#8099" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a> 
