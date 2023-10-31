@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Letícia Santiago 👋
 
 - 🔭 Front-End
-- 🌱 Estudando Typescript
+- 🌱 Estudando Python
 - 😄 Pronouns: Ela/Dela
 
 
@@ -12,6 +12,7 @@
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Leh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" alt="Leh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
