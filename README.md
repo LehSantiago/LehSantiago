@@ -1,4 +1,4 @@
-### Olá! Eu sou a Letícia Santiago 👋
+### Olá! Eu sou a Letícia 👋
 
 - 🔭 Front-End
 - 🌱 Estudando Python
