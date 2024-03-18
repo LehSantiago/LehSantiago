@@ -36,7 +36,6 @@
      <a href="https://discord.gg/Lehh💕#8099" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a> 
 
-![snake gif](https://github.com/LehSantiago/LehSantiago/blob/output/github-contribution-grid-snake.gif)
   
   </div>
  <div align="center">
@@ -46,8 +45,4 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
-    
-
-  
   
