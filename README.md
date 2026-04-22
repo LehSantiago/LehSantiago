@@ -4,7 +4,7 @@
 
 ---
 
-### 👩‍💻 Sobre mim
+### 👩🏽‍💻 Sobre mim
 
 Atuo com **Engenharia de Analytics e FinOps no Itaú Unibanco**, conectando três frentes: **dados, cloud e visão de negócio**. Trabalho com monitoramento e otimização de custos em ambientes AWS, desenvolvimento de dashboards no Amazon QuickSight e construção de indicadores financeiros para apoiar decisões estratégicas.
 
@@ -16,23 +16,13 @@ Tenho background em desenvolvimento **FullStack (React + Python)** e sólida bas
 - 🎓 Graduanda em **Sistemas de Informação** — Mackenzie (2023–2027)
 - 📍 São Paulo, SP — Brasil
 
----
-
 ### 🛠️ Linguagens & Tecnologias
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,mysql,aws,figma,java,git,bootstrap&perline=12" />
+  </a>
+</p>
 
 <br>
 
@@ -55,7 +45,7 @@ Tenho background em desenvolvimento **FullStack (React + Python)** e sólida bas
 
 ---
 
-### 👾 Pacman nos meus commits
+### 🐍 meus commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LehSantiago/LehSantiago/output/pacman.svg" alt="Pacman animation" />
@@ -65,10 +55,10 @@ Tenho background em desenvolvimento **FullStack (React + Python)** e sólida bas
 
 ### 🏅 Certificações
 
-- ☁️ AWS Academy Graduate — Cloud Foundations
-- ☁️ AWS Academy Graduate — Cloud Developing
+- ☁️ AWS Academy Graduate Training  — Cloud Foundations
+- ☁️ AWS Academy Graduate Training  — Cloud Developing
 - 🤖 AWS Educate Machine Learning Foundations
-- 🌐 Introduction to IoT
+- 🌐 Introduction to IoT - Cisco
 
 ---
 
@@ -84,16 +74,8 @@ Tenho background em desenvolvimento **FullStack (React + Python)** e sólida bas
   <a href="https://wa.me/5511970205733" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="https://discord.gg/Lehh💕#8099" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
 </div>
 
 ---
-
-<div align="center">
-<br><p><b>Visitantes 👀</b></p>
-<p><img src="https://profile-counter.glitch.me/{LehSantiago}/count.svg" /></p>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A020F0&height=120&section=footer"/>
